@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "遠雷",
+  "base_artist": "tayori",
+  "createdAt": "2026-02-19T17:20:13.975573Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "遠雷",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/01_遠雷_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "遠雷 ~遠くにある明かり~",
+      "artist": "HIGH and MIGHTY COLOR",
+      "has_synced": true,
+      "path": "select/02_遠雷_~遠くにある明かり~_HIGH_and_MIGHTY_COLOR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Enrai ~Tooku ni aru Akari~ [遠雷 〜遠くにある明かり〜]",
+      "artist": "HIGH and MIGHTY COLOR",
+      "has_synced": true,
+      "path": "select/03_Enrai_~Tooku_ni_aru_Akari~_[遠雷_〜遠くにある明かり〜]_HIGH_and_MIGHTY_COLOR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "遠雷 ～遠くにある明かり～",
+      "artist": "HIGH and MIGHTY COLOR",
+      "has_synced": true,
+      "path": "select/04_遠雷_~遠くにある明かり~_HIGH_and_MIGHTY_COLOR.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "遠雷",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/05_遠雷_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "遠雷",
+      "artist": "DEKU",
+      "has_synced": false,
+      "path": "select/06_遠雷_DEKU.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "遠雷",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/07_遠雷_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "遠雷 〜遠くにある明かり〜",
+      "artist": "HIGH and MIGHTY COLOR",
+      "has_synced": true,
+      "path": "select/08_遠雷_〜遠くにある明かり〜_HIGH_and_MIGHTY_COLOR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "遠雷",
+      "artist": "今井麻美",
+      "has_synced": false,
+      "path": "select/09_遠雷_今井麻美.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "遠雷 〜遠くにある明かり〜",
+      "artist": "HIGH and MIGHTY COLOR",
+      "has_synced": true,
+      "path": "select/10_遠雷_〜遠くにある明かり〜_HIGH_and_MIGHTY_COLOR.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "遠雷",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/11_遠雷_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "遠雷 - Piano Ballad ver． -",
+      "artist": "今井麻美",
+      "has_synced": false,
+      "path": "select/12_遠雷_-_Piano_Ballad_ver._-_今井麻美.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Enrai (遠雷)",
+      "artist": "Do As Infinity (ドゥー・アズ・インフィニティ)",
+      "has_synced": true,
+      "path": "select/13_Enrai_(遠雷)_Do_As_Infinity_(ドゥー・アズ・インフィニティ).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "遠雷 〜遠くにある明かり〜",
+      "artist": "GUNDAM",
+      "has_synced": true,
+      "path": "select/14_遠雷_〜遠くにある明かり〜_GUNDAM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "遠雷",
+      "artist": "tayori",
+      "has_synced": false,
+      "path": "select/pl_01_遠雷_tayori.txt"
+    }
+  ]
+}
